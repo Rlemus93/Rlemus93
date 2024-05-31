@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlemus93&label=Profile%20views&color=0e75b6&style=flat" alt="rlemus93" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/Rlemus93/final-portfolio)
+- 🔭 I’m currently working on [Personal Portfolio](https://github.com/Rlemus93/Personal-Portfolio)
 
 - 📫 How to reach me **rlemus93@gmail.com**
 
