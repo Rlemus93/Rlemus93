@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Lemus</h1>
 <h3 align="center">A Full Stack Web Developer from San Diego, Ca</h3>
-<h3 align="center">Currently Working as a Systems Analyst for Mitratech</h3>
+<h3 align="center">Currently Working as a Junior Software Developer for Mitratech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlemus93&label=Profile%20views&color=0e75b6&style=flat" alt="rlemus93" /> </p>
 
